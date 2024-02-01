@@ -7,6 +7,6 @@ If the user enters "exit" then a .csv file is generated where all the states mis
 <br>
 The project involves extensive data analysis using the Panda's Library of Python and the Turtle Module(Graphical User Interface) of Python
 <br>
-I have gathered all the data https://www.sporcle.com/games/g/states. 
+I have gathered all the data from https://www.sporcle.com/games/g/states. 
 <br>
 The Project also involves event handling and data manipulation using various data analysis techniques
